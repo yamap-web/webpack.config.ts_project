@@ -5,9 +5,13 @@
 ## 環境構築の手順
 
 ### 1. 環境変数ファイルを作成
-
+Mac / Linux
 ```
 cp .env.example .env
+```
+Windows
+```
+copy .env.example .env
 ```
 
 - リポジトリに設置してある`.env.example`ファイルを複製した`.env`ファイルとして作成
