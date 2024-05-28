@@ -1,4 +1,4 @@
-# webpack.config.ts を使用したフロントエンドプロジェクトの基本構成
+# `webpack.config.ts` を使用したフロントエンドプロジェクトの基本構成
 
 <img src="https://img.shields.io/badge/-TypeScript-333333.svg?logo=typescript&style=for-the-badge&logoColor"> <img src="https://img.shields.io/badge/-React-333333.svg?logo=react&style=for-the-badge&logoColor">
 
